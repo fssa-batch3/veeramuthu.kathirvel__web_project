@@ -1,0 +1,63 @@
+.hr {
+  text-align: center;
+  font-size: medium;
+}
+.hr1 {
+  height: 280px;
+  width: 280px;
+}
+.hr2 {
+  height: 280px;
+  width: 280px;
+}
+.hr3 {
+  height: 280px;
+  width: 280px;
+}
+
+.hr123 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.bh {
+  text-align: center;
+  font-size: medium;
+}
+.bh1 {
+  height: 280px;
+  width: 280px;
+}
+.bh2 {
+  height: 280px;
+  width: 280px;
+}
+.bh3 {
+  height: 280px;
+  width: 280px;
+}
+
+.bh123 {
+  display: flex;
+  justify-content: space-evenly;
+}
+.mr {
+  text-align: center;
+  font-size: medium;
+}
+.mr1 {
+  height: 280px;
+  width: 280px;
+}
+.mr2 {
+  height: 280px;
+  width: 280px;
+}
+.mr3 {
+  height: 280px;
+  width: 280px;
+}
+
+.mr123 {
+  display: flex;
+  justify-content: space-evenly;
+}
