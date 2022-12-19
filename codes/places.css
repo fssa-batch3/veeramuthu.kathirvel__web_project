@@ -1,5 +1,5 @@
 .para {
-  padding: 50px;
+  padding: 19px 50px;
 }
 .t1 {
   text-align: center;
@@ -22,12 +22,19 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+/* margin-bottom: 50px; */
+
 .para2 {
-  padding: 50px;
+  padding-top: 20px 50px;
+}
+.para-2 {
+  background-color: antiquewhite;
 }
 .t2 {
   text-align: center;
   font-size: medium;
+  /* margin-top: 50px; */
 }
 .imk1 {
   height: 280px;
@@ -54,7 +61,7 @@
   font-size: medium;
 }
 .para3 {
-  padding: 50px;
+  padding: 15px 70px;
 }
 .imd1 {
   height: 280px;
@@ -81,7 +88,8 @@
   font-size: medium;
 }
 .para4 {
-  padding: 50px;
+  padding: 15px 73px;
+  text-shadow: 2px red;
 }
 .im123g {
   display: flex;
@@ -110,4 +118,7 @@
   width: 280px;
   height: 280px;
   overflow: hidden;
+}
+.hd {
+  margin-top: 2em;
 }
